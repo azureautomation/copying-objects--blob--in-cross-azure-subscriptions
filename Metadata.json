@@ -1,0 +1,20 @@
+{
+    "Author": "Tariq Younas",
+    "ContentSize": 1583,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/copying-objects-(blob)-in-cross-azure-subscriptions/master/Script.CopyingBlobs.ps1",
+    "DownloadCount": 1200,
+    "Id": "Copying-Objects-Blob-in-b5dd4dbf",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 406,
+    "RaterCount": 6,
+    "Rating": 4.7,
+    "ReleaseDate": "2016-10-25T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "In Azure copying objects from one subscription to another subscription OR within same subscription is very easy without any complexity. In this copy you don\u2019t need to provide subscription ID or address etc.To access storage accounts in Azure a key is required. Key you c",
+    "Title": "Copying Objects (Blob) in cross Azure Subscriptions",
+    "UpdatedDate": "2016-10-25T00:00:00",
+    "Url": "https://github.com/azureautomation/copying-objects-(blob)-in-cross-azure-subscriptions",
+    "UserTags": ""
+}
